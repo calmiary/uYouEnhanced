@@ -1,0 +1,4 @@
+$ git clone --recursive https://github.com/qnblackcat/uYouPlus.git
+$ cd ./uYouPlus && git submodule update --remote --merge
+$ chmod +x ./build.sh
+$ ./build.sh
